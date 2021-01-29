@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on blockchain
 - 🌱 I’m currently learning GO, blockchain
 - 🤔 I’m looking for help with mobile APP design
-- 📫 How to reach me: email me at miaoshengyou@outlook.com or visit my [homepage](https://miaoshengyou.github.io)
+- 📫 How to reach me: email me or visit my [homepage](https://miaoshengyou.github.io)
 
 <!--
 **miaoshengyou/miaoshengyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
